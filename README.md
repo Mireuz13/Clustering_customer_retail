@@ -1,5 +1,5 @@
 # Hola 
-#* Este proyecto se realizó para obtener el titulo de Data Science en la academia Desafio Latam 2022*
+#^ Este proyecto se realizó para obtener el titulo de Data Science en la academia Desafio Latam 2022
 Cosas a considerar : 
 la base de datos al principio tiene 36 mill de datos aproximados y se redujo a 3.600.000
 Se ocupó Spark para el pre-procesamiento del data set
